@@ -2700,7 +2700,7 @@
 0.0.0.0 mainad.com
 0.0.0.0 mainadv.com
 0.0.0.0 maintrack.us
-0.0.0.0 mandrillapp.com
+#0.0.0.0 mandrillapp.com
 0.0.0.0 map2.ssl.hwcdn.net
 0.0.0.0 margree.com
 0.0.0.0 marinsm.com
