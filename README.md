@@ -1,5 +1,16 @@
+# Branched Block List Project
 
-  
+This repository is a branch of the Block List Project lists for PiHole.  Please visit them for the full original Block List.
+
+[Block List Project (https://github.com/blocklistproject)](https://github.com/blocklistproject)
+
+Items contained in the lists in this fork are added and removed to suit me and my family's personal convenience and needs and may not necessarily be "best practice" with the security / privacy community.  Some trackers are allowed to ease multi-user use within a family where strict blocking breaks certain activities and features used by non-tech saavy users.
+
+All changes are documented when committed.
+
+
+
+#######################################################################################  
 # The Block List Project
 
 
